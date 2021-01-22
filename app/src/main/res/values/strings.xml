@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praktikum11</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="delete">delete</string>
+    <string name="dashboard_quote">Quote</string>
+</resources>
